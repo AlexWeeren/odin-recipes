@@ -1,2 +1,1 @@
-# odin-recipes
-Basic website made to practice with HTML
+This repository contains the bare-bones for an online recipe repository. It contains one sample recipe: lasagna.
